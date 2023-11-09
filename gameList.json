@@ -1,0 +1,34 @@
+ [
+      {
+        "title": "Super Mario Bros",
+        "genre": "Platformer",
+        "platform": "NES",
+        "releaseYear": 1985,
+        "developer": "Nintendo",
+        "rating": 4.8
+      },
+      {
+        "title": "Pac-Man",
+        "genre": "Arcade",
+        "platform": "Arcade Machine",
+        "releaseYear": 1980,
+        "developer": "Namco",
+        "rating": 4.5
+      },
+      {
+        "title": "The Legend of Zelda",
+        "genre": "Action-Adventure",
+        "platform": "NES",
+        "releaseYear": 1986,
+        "developer": "Nintendo",
+        "rating": 4.7
+      },
+      {
+        "title": "Tetris",
+        "genre": "Puzzle",
+        "platform": "Game Boy",
+        "releaseYear": 1989,
+        "developer": "Alexey Pajitnov",
+        "rating": 4.6
+      }
+    ]
